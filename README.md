@@ -12,3 +12,5 @@ Chi tiết các tính năng như sau:
 Đăng bài viết: Nơi học sinh thoải mái chia sẻ kiến thức, kinh nghiệm, bài tập, thảo luận, tạo nên môi trường học hỏi sôi động, đầy cảm hứng.
 Phòng học trực tuyến: Tích hợp các nền tảng họp trực tuyến như Google Meet, Zoom, Microsoft Teams, tạo môi trường học tập tương tác trực tiếp với bạn bè.
 Kho học liệu/Chủ đề: Lưu trữ tài liệu học tập, các bài viết truyền cảm hứng, hỗ trợ học sinh tìm kiếm, tải xuống tài liệu cần thiết, thậm chí đăng tải những câu hỏi khó để cùng nhau giải đáp.Bình luận: Thúc đẩy tương tác, thảo luận, trao đổi ý kiến, giúp học sinh kết nối, hỗ trợ lẫn nhau trong quá trình học tập.
+[Ứng dụng học tập - Tóm tắt.docx](https://github.com/MaiNgocChau9/STTTN_/files/15396124/ng.d.ng.h.c.t.p.-.Tom.t.t.docx)
+[Thuyết trình + Câu hỏi.docx](https://github.com/MaiNgocChau9/STTTN_/files/15396125/Thuy.t.trinh.%2B.Cau.h.i.docx)
