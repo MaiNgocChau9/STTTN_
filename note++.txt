@@ -1,0 +1,55 @@
+1. Sản phẩm của bọn em có sự khác biệt gì so với các sản phẩm còn lại trên thị trường?
+2. Định hướng phát triển dự án của chúng em trong tương lai như thế nào?
+3. Các ưu điểm và nhược điểm của sản phẩm em là gì?
+4. Các em lấy nguồn vốn từ đâu để thực hiện dự án này?
+5. Mạng xã hội học tập này sẽ giúp học sinh học tập hiệu quả hơn so với các nền tảng hiện có như Google Classroom, Zoom hay Microsoft Teams không?
+6. Những thách thức lớn nhất bạn dự đoán sẽ gặp phải khi triển khai sản phẩm này trong thực tế là gì?
+7. Bạn có chiến lược nào để duy trì sự hứng thú và tham gia tích cực từ học sinh và giáo viên trong thời gian dài không? (Gần giống với ý định phát triển sản phẩm)
+8. Nếu các công nghệ mới như AI phát triển mạnh mẽ trong tương lai, các bạn sẽ tích hợp chúng vào nền tảng như thế nào?
+==================================
+Mạng xã hội học tập của chúng tôi có tiềm năng giúp học sinh học tập hiệu quả hơn so với các nền tảng hiện có như Google Classroom, Zoom hay Microsoft Teams vì nó cung cấp một môi trường học tập tương tác và cộng đồng hơn, đồng thời kích thích sự chủ động trong học tập:
+Tương tác và chia sẻ: Nền tảng của chúng tôi khuyến khích học sinh tương tác, chia sẻ kiến thức, thảo luận bài học với bạn bè và giáo viên. Điều này giúp họ hiểu bài tốt hơn, củng cố kiến thức và phát triển kỹ năng giao tiếp. Google Classroom, Zoom và Microsoft Teams chủ yếu tập trung vào việc truyền tải kiến thức một chiều, thiếu tính tương tác giữa học sinh.
+Học tập chủ động: Mạng xã hội học tập của chúng tôi khuyến khích học sinh tự tìm kiếm và chia sẻ kiến thức, tạo ra môi trường học tập chủ động và sáng tạo. Học sinh có thể tự tạo bài viết, bài học, chia sẻ kinh nghiệm, và hỗ trợ lẫn nhau trong học tập. Trong khi đó, Google Classroom, Zoom và Microsoft Teams thường tập trung vào việc học sinh thụ động tiếp nhận kiến thức.
+Cộng đồng học tập: Nền tảng của chúng tôi tạo ra một cộng đồng học tập sôi động, nơi học sinh có thể kết nối, trao đổi kiến thức, hỗ trợ lẫn nhau và xây dựng mối quan hệ bạn bè. Điều này giúp học sinh cảm thấy hứng thú với việc học tập hơn. Các nền tảng Google Classroom, Zoom và Microsoft Teams thường thiếu đi yếu tố cộng đồng.
+
+Trong khi các nền tảng như Google Classroom, Zoom hay Microsoft Teams đã góp phần thay đổi cách học và dạy, chúng vẫn còn một số hạn chế:
+Thiếu tính tương tác: Google Classroom, Zoom và Microsoft Teams chủ yếu tập trung vào việc truyền tải kiến thức một chiều, thiếu tính tương tác giữa học sinh. Học sinh ít có cơ hội để đặt câu hỏi, thảo luận, chia sẻ ý tưởng, dẫn đến sự thụ động trong học tập.
+Thiếu cộng đồng học tập: Các nền tảng này thường thiếu đi yếu tố cộng đồng, nơi học sinh có thể kết nối, trao đổi kiến thức, hỗ trợ lẫn nhau và xây dựng mối quan hệ bạn bè. Điều này khiến việc học tập trở nên nhàm chán và thiếu động lực.
+Nội dung hạn chế: Nội dung học tập trên các nền tảng này thường bị giới hạn bởi nguồn tài liệu do giáo viên cung cấp. Học sinh ít có cơ hội tiếp cận với kiến thức đa dạng và phong phú từ nhiều nguồn.
+Nguy cơ lệ thuộc vào công nghệ: Học sinh dễ dàng phụ thuộc vào các công cụ học tập trực tuyến, dẫn đến việc thiếu kỹ năng tự học và giải quyết vấn đề độc lập.
+
+- Cộng đồng học tập: Nền tảng của bạn tập trung vào việc xây dựng cộng đồng học tập, cho phép học sinh tương tác, chia sẻ, và hỗ trợ lẫn nhau. Google Classroom, Zoom và Microsoft Teams chủ yếu tập trung vào việc quản lý học tập và truyền tải kiến thức.
+- Nội dung đa dạng: Bạn nhấn mạnh việc cung cấp kho học liệu phong phú được đóng góp bởi chính người dùng.
+- Kiểm duyệt nội dung: Nền tảng của bạn có hệ thống kiểm duyệt nội dung bởi giáo viên, đảm bảo tính chính xác và an toàn cho học sinh.
+- Có tính năng phòng học trực tuyến: Phòng học trực tuyến: Nền tảng của chúng em tích hợp tính năng phòng học trực tuyến, sử dụng các công cụ họp trực tuyến phổ biến như Google Meet, Zoom, hoặc Microsoft Teams, giúp học sinh và giáo viên dễ dàng tổ chức và tham gia các buổi học trực tiếp.
+
+==================================
+Mạng xã hội học tập của chúng tôi cải thiện đáng kể hiệu quả học tập so với các nền tảng như Google Classroom, Zoom và Microsoft Teams bởi lẽ chúng tôi tạo ra không gian cho các học sinh không chỉ nhận thông tin mà còn được khuyến khích thảo luận và chia sẻ kiến thức. Khác biệt lớn nhất là sự tương tác: cộng đồng học tập chúng tôi xây dựng cho phép học sinh cùng nhau tạo lập mạng lưới hỗ trợ, tăng cường động lực và sự chủ động trong học tập. Trong khi các nền tảng khác tập trung vào việc truyền đạt kiến thức từ giáo viên, mạng xã hội học tập của chúng tôi mở ra cơ hội để học sinh phát triển kỹ năng mềm và tự học một cách hiệu quả hơn.
+
+==================================
+Sản phẩm này có gì đặc biệt để cạnh tranh với các sản phẩm trên thị trường?
+
+Ưu điểm
+- Phù hợp với xu hướng học tập hiện đại
+- Giúp giáo viên quản lý, theo dõi học sinh hiệu quả hơn
+- Cung cấp kho học liệu phong phú, đa dạng
+- Thúc đẩy tinh thần học tập suốt đời
+
+Nhược điểm:
+- Nguy cơ mất tập trung khi sử dụng
+- Nguy cơ gặp phải thông tin sai lệch, lợi dụng cho mục đích xấu
+
+======================================================
+Nguồn vốn:
+- Thu nhập thụ động (tìm tới mình): Google sẽ có các offer để chạy quảng cáo
+- Thu nhập chủ động (bán nó): Ví dụ như bán tài liệu, sách,...
+=> Có vốn
+
+Chi phí nghiên cứu.
+
+Ưu điểm: Nhấn mạnh
+Nhược điểm: Đưa ra cách khắc phục hoặc nói giảm nói tránh
+
+Những khuyết điểm không thể bị hạn chế:
+- Khả năng lập trình
+- Chi phí
